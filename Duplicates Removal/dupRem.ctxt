@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=dupRem
+comment1.params=str\ idx\ newStr
+comment1.target=void\ removeDup(java.lang.String,\ int,\ java.lang.String)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
